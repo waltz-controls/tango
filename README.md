@@ -20,3 +20,4 @@ Meta repository for Tango-Controls related projects
 | Name | Platform | Link |
 |------|----------|------|
 | TangoRestServer | Java 11+/Apache Tomcat 9 | [GitHub](//github.com/waltz-controls/rest-server) |
+| tango-rest-client | JS6+ | [GitHub](//github.com/waltz-controls/tango-rest-client) |
