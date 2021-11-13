@@ -31,4 +31,4 @@ Meta repository for Tango-Controls related projects
 
 | Name | Platform | Link |
 |------|----------|------|
-| magix-war-plugin | Java 11+/Apache Tomcat 9 | [GitHub](//github.com/waltz-controls/magix-war-plugin) |
+| magix-tango-connector | Java 11+/Apache Tomcat 9 | [GitHub](//github.com/waltz-controls/magix-tango-connector) |
