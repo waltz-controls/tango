@@ -12,7 +12,7 @@ Meta repository for Tango-Controls related projects
 
 | Name | Platform| Link | Latest |
 |------|---------|------|--------|
-| virtual-tango-host | Java 11+ | [GitHub](//github.com/waltz-controls/virtual-tango-host) |[![Download](https://img.shields.io/github/release/waltz-controls/virtual-tango-host.svg?style=flat)](https://github.com/waltz-controls/virtual-tango-host/releases/latest) |
+| virtual-tango-host | Java 11+ | [GitHub](//github.com/waltz-controls/virtual-tango-host) | |
 | virtual-tango-server | Java 11+ | WIP | |
 | PreExperimentDataCollector   | Java 11+ | [GitHub](https://github.com/waltz-controls/pre-experiment-data-collector) | [![Download](https://img.shields.io/github/release/waltz-controls/pre-experiment-data-collector.svg?style=flat)](https://github.com/waltz-controls/pre-experiment-data-collector/releases/latest)|
 | StatusServer   | Java 11+ | [GitHub](https://github.com/waltz-controls/status-server) | [![Download](https://img.shields.io/github/release/waltz-controls/status-server.svg?style=flat)](https://github.com/waltz-controls/status-server/releases/latest)|
